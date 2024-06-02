@@ -1,0 +1,2 @@
+# hyprsonix
+my hyprsonix project
